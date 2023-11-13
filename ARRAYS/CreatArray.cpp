@@ -11,7 +11,7 @@ int main() {
     }
 
     
-          cout << "Elements in the array: ";
+    cout << "Elements in the array: ";
     for (int i = 0; i < n; i++) {
         cout << Arr[i] << " ";
     }
